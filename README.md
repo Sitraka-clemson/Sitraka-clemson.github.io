@@ -6,7 +6,7 @@ My Clemson Profile page may be found [here](https://www.clemson.edu/science/acad
 
 My research focuses on algebraic methods in coding theory. I am also interested in commutative algebra, algebraic number theory, and computational algebraic geometry, particularly in their connections with algebraic coding theory. My current work studies constructions of subspace codes for the analog operator channel, an emerging setting for subspace coding over the complex numbers.
 
-You can contact me by emailing me at srandri@clemson.edu.
+You can contact me at srandri@clemson.edu.
 
 # Educational Background
 
@@ -17,15 +17,15 @@ You can contact me by emailing me at srandri@clemson.edu.
 My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is August 2027. 
 
 # Teaching Experience
-My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3rdDraft.pdf)
+My teaching statement can be found here: [Open PDF](Teaching_Statement_for_postdoc_application.pdf)
 ## Graduate Teaching Assistant
 - STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
 - MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
   
 ## Graduate Instructor of Record
-- MATH 1030 (Elementary Functions) - Fall 2023, Fall 2024
-- MATH 1060 (Calculus of One Variable I) - Fall 2025
-- MATH 1080 (Calculus of One Variable II) - Spring 2026, Fall 2026
+- MATH 1010 (Essential Mathematics for the Informed Society) - Fall 2025
+- MATH 1040 (Precalculus and Introductory Differential Calculus) - Spring 2026
+- MATH 1060 (Calculus of One Variable I) - Fall 2026
 
 # Research Papers
 
