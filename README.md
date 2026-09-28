@@ -1,31 +1,34 @@
 # Welcome!
 
-My name is Sitraka Randrianarivo, and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Felice Manganiello](https://www.math.clemson.edu/~manganm/?section=1).
+My name is Sitraka Randrianarivo, and I am currently pursuing a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Felice Manganiello](https://www.math.clemson.edu/~manganm/?section=1).
 
-My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/srandri).
+See my [Clemson profile](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/srandri).
 
 My research focuses on algebraic methods in coding theory. I am also interested in commutative algebra, algebraic number theory, and computational algebraic geometry, particularly in their connections with algebraic coding theory. My current work studies constructions of subspace codes for the analog operator channel, an emerging setting for subspace coding over the complex numbers.
 
-You can contact me at srandri@clemson.edu.
+You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 
-# Educational Background
+## Educational Background
 
-- B.S., Mathematics, University of Antananarivo (2018)
-- M.S., Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), South Africa (2021)
-- M.S., Mathematical Sciences, Clemson University (2023)
+- B.S. in Mathematics, University of Antananarivo, 2018
+- M.S. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), South Africa, 2021
+- M.S. in Mathematical Sciences, Clemson University, 2023
+- Ph.D. in Mathematical Sciences, Clemson University, expected August 2027
 
-My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is August 2027. 
+## Teaching Experience
 
-# Teaching Experience
-My teaching statement can be found here: [Open PDF](Teaching_Statement_for_postdoc_application.pdf)
-## Graduate Teaching Assistant
-- MATH 4830 (Research Experience for Visiting Undergraduate) - Summer 2022
-- MATH 3101 (Linear Algebra) - Spring 2023, Fall 2024, Spring 2025
-  
-## Graduate Instructor of Record
-- MATH 1010 (Essential Mathematics for the Informed Society) - Fall 2025
-- MATH 1040 (Precalculus and Introductory Differential Calculus) - Spring 2026
-- MATH 1060 (Calculus of One Variable I) - Fall 2026
+My teaching statement is available [here](Teaching_Statement_for_postdoc_application.pdf).
+
+### Graduate Teaching Assistant
+
+- MATH 4830 (Research Experience for Visiting Undergraduate), Summer 2022
+- MATH 3101 (Linear Algebra), Spring 2023, Fall 2024, Spring 2025
+
+### Graduate Instructor of Record
+
+- MATH 1010 (Essential Mathematics for the Informed Society), Fall 2025
+- MATH 1040 (Precalculus and Introductory Differential Calculus), Spring 2026
+- MATH 1060 (Calculus of One Variable I), Fall 2026
 
 ## Publications
 
@@ -35,7 +38,7 @@ My teaching statement can be found here: [Open PDF](Teaching_Statement_for_postd
 
 3. Sitraka Randrianarivo. *Rational Reconstruction for Homological Construction.* Master’s thesis, African Institute for Mathematical Sciences, South Africa, 2021.
 
-## Presentations Talk and Poster
+## Selected Talks and Posters
 
 1. Felice Manganiello and Sitraka Randrianarivo. “Subspace codes from finite fields for the operator channel over complex numbers.” 2026 Joint Mathematics Meetings (JMM 2026), AMS, 2026.
 
