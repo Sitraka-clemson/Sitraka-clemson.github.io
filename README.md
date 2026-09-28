@@ -8,6 +8,12 @@ My research focuses on algebraic methods in coding theory. I am also interested 
 
 You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 
+## Academic Materials
+
+- [CV](<Sitraka_Academic_CV_for_postdoc_application(1).pdf>)
+- [Research statement](Research_Statement(2026).pdf)
+- [Teaching statement](Teaching_Statement_for_postdoc_application.pdf)
+
 ## Educational Background
 
 - B.S. in Mathematics, University of Antananarivo, 2018
@@ -16,8 +22,6 @@ You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 - Ph.D. in Mathematical Sciences, Clemson University, expected August 2027
 
 ## Teaching Experience
-
-My teaching statement is available [here](Teaching_Statement_for_postdoc_application.pdf).
 
 ### Graduate Teaching Assistant
 
