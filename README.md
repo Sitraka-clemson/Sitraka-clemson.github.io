@@ -19,54 +19,30 @@ My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson 
 # Teaching Experience
 My teaching statement can be found here: [Open PDF](Teaching_Statement_for_postdoc_application.pdf)
 ## Graduate Teaching Assistant
-- STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
-- MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
+- MATH 4830 (Research Experience for Visiting Undergraduate) - Summer 2022
+- MATH 3101 (Linear Algebra) - Spring 2023, Fall 2024, Spring 2025
   
 ## Graduate Instructor of Record
 - MATH 1010 (Essential Mathematics for the Informed Society) - Fall 2025
 - MATH 1040 (Precalculus and Introductory Differential Calculus) - Spring 2026
 - MATH 1060 (Calculus of One Variable I) - Fall 2026
 
-# Research Papers
+## Publications
 
-## Submitted or Under Revision
-- Pittman, D. and Fralix, B.
+1. Felice Manganiello and Sitraka Randrianarivo. “Subspace code construction over the complex numbers using extended multiplicative characters.” Submitted, 2026.
 
-  "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications."
-  
-  Undergoing revisions.
+2. Felice Manganiello and Sitraka Randrianarivo. “[Exact cardinality and nonredundant parametrization of character-polynomial codes](https://arxiv.org/abs/2607.11595).” arXiv preprint arXiv:2607.11595, 2026.
 
-  A link to a pre-print can be found here: [Open PDF](PittmanFralix23Jan2025.pdf)
+3. Sitraka Randrianarivo. *Rational Reconstruction for Homological Construction.* Master’s thesis, African Institute for Mathematical Sciences, South Africa, 2021.
 
-## In Preparation
-- Pittman, D., Fralix, B., and Kharoufeh, J. 
+## Presentations Talk and Poster
 
-  "Multivariate Generalized Pólya Processes and Related Models"
+1. Felice Manganiello and Sitraka Randrianarivo. “Subspace codes from finite fields for the operator channel over complex numbers.” 2026 Joint Mathematics Meetings (JMM 2026), AMS, 2026.
 
-  To be submitted.
-- Pittman, D. and Fralix, B.
+2. Sitraka Randrianarivo. “Subspace codes for Analogue Operator Channel.” Special-session talk, 2025 Spring Southeastern Sectional Meeting, Clemson University, Clemson, SC, 2025.
 
-  "On the time-dependent behavior of various types of continuous-time Pólya-like random walks."
+3. Sitraka Randrianarivo. “Construction of optimal codes for sum-rank weight.” Poster presentation, Data sECurity and mAchine Learning (DECAL) Workshop, Clemson University, Clemson, SC, 2024.
 
-  To be submitted.
+## Honors and Awards
 
-# Research Presentations
-All talks listed were given by D. Pittman.
-## Invited Talks
-- Pittman, D. and Fralix, B.
-  
-  "Calculating the Stationary Distribution of a Markov Chain by Decomposing its Set of Global Balance Equations"
-
-  Joint Mathematics Meetings 2025, Seattle, January 8-11
-- Pittman, D. and Fralix, B.
-  
-  "A New Look at the Pólya Urn Process"
-
-  Joint Mathematics Meeting 2027, Chicago, January 12-15
-  
-## Contributed Talks
-- Pittman, D. and Fralix, B.
-  
-  "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications"
-
-  22nd INFORMS Applied Probability Society Conference 2025, Atlanta, June 30 - July 3
+- Full Scholarship for M.S. Study, African Institute for Mathematical Sciences (AIMS), South Africa, 2021.
