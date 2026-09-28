@@ -1,18 +1,18 @@
 # Welcome!
 
-My name is David James Pittman Jr., and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Brian Fralix](https://bfralix.people.clemson.edu/).
+My name is Sitraka Randrianarivo, and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Felice Manganiello](https://www.math.clemson.edu/~manganm/?section=1).
 
-My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/djpittm).
+My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/srandri).
 
-My research area is broadly in stochastic processes. My current focus is on Pólya Urns, Pólya Urn Processes, and Generalized Pólya Processes.
-I have also done some work with matrix-analytic methods in the theory of Markov chains, particularly using the random product technique developed by Patrick Buckingham and Brian Fralix.
+My research focuses on algebraic methods in coding theory. I am also interested in commutative algebra, algebraic number theory, and computational algebraic geometry, particularly in their connections with algebraic coding theory. My current work studies constructions of subspace codes for the analog operator channel, an emerging setting for subspace coding over the complex numbers.
 
-You can contact me by emailing me at djpittm@clemson.edu.
+You can contact me by emailing me at srandri@clemson.edu.
 
 # Educational Background
 
-- B.S., Mathematics, Bob Jones University (December 2021)
-- M.S., Mathematical Sciences, Clemson University (December 2023)
+- B.S., Mathematics, University of Antananarivo (2018)
+- M.S., Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), South Africa (2021)
+- M.S., Mathematical Sciences, Clemson University (2023)
 
 My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is August 2027. 
 
