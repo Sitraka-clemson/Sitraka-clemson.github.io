@@ -36,7 +36,7 @@ You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 
 ## Publications
 
-1. Felice Manganiello and Sitraka Randrianarivo. “Subspace code construction over the complex numbers using extended multiplicative characters.” Submitted, 2026.
+1. Felice Manganiello and Sitraka Randrianarivo. “Subspace Code Construction over the Complex Numbers Using Extended Multiplicative Characters.” Submitted, 2026.
 
 2. Felice Manganiello and Sitraka Randrianarivo. “[Exact cardinality and nonredundant parametrization of character-polynomial codes](https://arxiv.org/abs/2607.11595).” arXiv preprint arXiv:2607.11595, 2026.
 
