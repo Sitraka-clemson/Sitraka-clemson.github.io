@@ -12,7 +12,7 @@ You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 
 - [CV](<Sitraka_Academic_CV_for_postdoc_application.pdf>)
 - [Research statement](Research_Statement(2026).pdf)
-- [Teaching statement](Teaching_Statement_for_postdoc_application.pdf)
+- [Teaching statement](teaching_Statement_Sitraka_application.pdf)
 
 ## Educational Background
 
