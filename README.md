@@ -16,8 +16,8 @@ You can contact me at [srandri@clemson.edu](mailto:srandri@clemson.edu).
 
 ## Educational Background
 
-- B.S. in Mathematics, University of Antananarivo, 2018
-- M.S. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), South Africa, 2021
+- B.S. in Pure Mathematics, University of Antananarivo, 2018
+- M.Sc. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), South Africa, 2021
 - M.S. in Mathematical Sciences, Clemson University, 2023
 - Ph.D. in Mathematical Sciences, Clemson University, expected August 2027
 
